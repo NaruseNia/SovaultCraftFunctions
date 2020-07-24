@@ -18,5 +18,5 @@
 `vwInfo vwTime`
 
 ### ファンクション名、フォルダ名
-- ファンクション名、フォルダ名も同様に**Camel方式**を採用し、例外はありません。  
-`startGame.mcfunction forceStop.mcfunction`  
+- ファンクション名、フォルダ名は大文字を使用してはいけません
+`siege/startgame.mcfunction breakthrough/forcestop.mcfunction`  
