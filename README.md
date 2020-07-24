@@ -18,5 +18,5 @@
 `vwInfo vwTime`
 
 ### ファンクション名、フォルダ名
-- ファンクション名、フォルダ名は大文字を使用してはいけません
+- ファンクション名、フォルダ名は大文字を使用してはいけません  
 `siege/startgame.mcfunction breakthrough/forcestop.mcfunction`  
